@@ -8,7 +8,7 @@
 
 - Full-stack dev working with technology for 10 years :nerd_face:
 - Currently using and loving mainly **JavaScript**
-- Working on an IoT project for 2 years using [![Home Assistant logo](./homeassistant-logo.png) HomeAssistant](https://github.com/home-assistant) => [home-assistant-config](https://github.com/JoaquinBeceiro/home-assistant-config)
-- Teaching at [![Hack Academy logo](./hack-logo.png) Hack Academy](https://ha.edu.uy) :man_teacher:
+- Working on an IoT project for 2 years using [![Home Assistant logo](https://raw.githubusercontent.com/JoaquinBeceiro/JoaquinBeceiro/master/homeassistant-logo.png) HomeAssistant](https://github.com/home-assistant) => [home-assistant-config](https://github.com/JoaquinBeceiro/home-assistant-config)
+- Teaching at [![Hack Academy logo](https://raw.githubusercontent.com/JoaquinBeceiro/JoaquinBeceiro/master/hack-logo.png) Hack Academy](https://ha.edu.uy) :man_teacher:
 
 
