@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey!, I'm Joaquin
 
-<!--
-**JoaquinBeceiro/JoaquinBeceiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![website badge](https://img.shields.io/badge/website-joaquinbeceiro.com.uy-red?style=flat-square)](https://joaquinbeceiro.com.uy)
+[![twitter badge](https://img.shields.io/badge/twitter-@juacobeceiro-blue?style=flat-square&logo=twitter)](https://twitter.com/arivanider)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm a coffee drinker from **.UY** :uruguay:, trying to become a software developer.
+
+- Full-stack dev working with technology for 10 years :nerd_face:
+- Currently using and loving mainly **JavaScript**
+- Working on an IoT project for 2 years using [![Home Assistant logo](./homeassistant-logo.ico) HomeAssistant](https://github.com/home-assistant) => [home-assistant-config](https://github.com/JoaquinBeceiro/home-assistant-config)
+- Teaching at [![Hack Academy logo](./hack-logo.png) Hack Academy](https://ha.edu.uy) :man_teacher:
+
+
