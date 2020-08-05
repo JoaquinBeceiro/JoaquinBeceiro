@@ -1,7 +1,8 @@
 # Hey!, I'm Joaquin
 
 [![website badge](https://img.shields.io/badge/website-joaquinbeceiro.com.uy-red?style=flat-square)](https://joaquinbeceiro.com.uy)
-[![twitter badge](https://img.shields.io/badge/twitter-@juacobeceiro-blue?style=flat-square&logo=twitter)](https://twitter.com/arivanider)
+[![twitter badge](https://img.shields.io/badge/twitter-@juacobeceiro-blue?style=flat-square&logo=twitter)](https://twitter.com/juacobeceiro)
+[![homeassistant badge](https://img.shields.io/badge/HomeAssistant-HomeAssistantConfig-green?style=flat-square&logo=home%20assistant)](https://github.com/JoaquinBeceiro/home-assistant-config)
 
 
 ### I'm a coffee drinker from **.UY** :uruguay:, trying to become a software developer.
