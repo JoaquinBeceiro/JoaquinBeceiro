@@ -13,3 +13,4 @@
 - Teaching at [![Hack Academy logo](https://raw.githubusercontent.com/JoaquinBeceiro/JoaquinBeceiro/master/hack-logo.png) Hack Academy](https://ha.dev) :man_teacher:
 
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/joaquinbeceiro?cardType=level&theme=github-dark)](https://git.io/awesome-stats-card)
