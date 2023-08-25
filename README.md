@@ -5,7 +5,7 @@
 [![homeassistant badge](https://img.shields.io/badge/HomeAssistant-HomeAssistantConfig-green?style=flat-square&logo=home%20assistant)](https://github.com/JoaquinBeceiro/home-assistant-config)
 
 
-### I'm a coffee drinker from **.UY** :uruguay:, trying to become a software developer.
+### I'm a coffee drinker from **.UY** :uruguay:, working as a software developer.
 
 - Full-stack dev working with technology for +10 years :nerd_face:
 - Currently using and loving **JavaScript**
